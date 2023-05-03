@@ -1,16 +1,18 @@
 # PortfolioAVK
 Examples
 
-Folder DevilMayFlay contains 3 levels
+DevilMayFlay - Игра с тремя уровнями. Платформер 3D. Организованы различные препятствия, разные типы врагов. Сбор предметов на уровнях.
 
-File Spider_animation is about general animation
+Spider_animation - Анимации паука: анимация покоя, прыжка, передвижения, атаки и смерти.
 
-File HumanAnimation (BananaMan) is about human animation
+HumanAnimation (BananaMan) - классический 3D раннер с препятствиями и сбором предметов.
 
-File RunShoot&Robot simple gamplay like Subway Surfers with features. 
+RunShoot&Robot - 3D раннер с препятствиями и сбором предметов, добавлена возможность стрельбы и уничтожения объектов.
 
-File 2DPlatformerPromo is a game for Windows PC and Android. Contains 5 levels with save points. 
-You can spend collected coins on levels in shop. At las level player collect rare item (gun).
-After that, the player can play the game again with updated gameplay
+2DPlatformerPromo - Игра 2D платформер для ПК и Андроид. Есть 5 уровней с нарастающей сложностью. Организованы разные типы препятствий, 
+ловушек и сбор предметов. Задача победить главного босса на последнем уровне. Перед боссом выпадает оружие для битвы. 
+После прохождения, оружие остается у игрока и можно пройтиигру еще раз, но тепер с возможностью убивать всех врагов из оружия.
+В игру встроем магазин, где можно потратить собранные монеты и пополнить ХП игрока.
 
-PDF file is a resume
+
+PDF file is a CV.
